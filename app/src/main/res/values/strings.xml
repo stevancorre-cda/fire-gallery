@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FireGallery</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1228585741397639</string>
+    <string name="fb_login_protocol_scheme">fb1228585741397639</string>
+    <string name="facebook_client_token">02996b35148a4075a7548633d5d4384e</string>
+
+    <string name="addImageContentDescription">Add an image to the gallery</string>
+    <string name="title_activity_facebook_login">Facebook Login</string>
+    <string name="title_activity_main">Fire Gallery</string>
+</resources>
